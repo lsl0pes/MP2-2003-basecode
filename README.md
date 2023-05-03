@@ -1,11 +1,19 @@
-# iia-ia-bomberman
-Bomberman clone for AI teaching
+
+
+# SI2 - Mini-projecto nº 2
+Este mini-projecto está centrado na matéria de aprendizagem por reforço, tendo por aplicação o jogo "Bomberman".
+
+Na disciplina de Inteligência Artificial (IA), seguindo o enunciado "bomberman.pdf", os alunos desenvolveram agentes para jogar este jogo autonomamente. Foram fornecidos o motor do jogo ("server.py") e um visualizador ("viewer.py") e os alunos apresentaram agentes, um dos quais é agora fornecido a título exemplificativo ("student.py").
+
+Em IA, estes agentes eram tipicamente pré-programados, ou seja, não usavam mecanismos da área da aprendizagem automática.
+
+Agora, neste mini-projecto de SI2, os alunos devem desenvolver agentes que, recorrendo a aprendizagem por reforço, consigam adquirir a funcionalidade necessária para jogar o jogo do Bomberman.
 
 ![Demo](https://github.com/dgomes/iia-ia-bomberman/raw/master/data/DemoBomberman.gif)
 
 ## How to install
 
-Make sure you are running Python 3.5.
+Make sure you are running Python 3.5 or higher.
 
 `$ pip install -r requirements.txt`
 
